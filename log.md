@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 ### Day 1: April 10, 2023
-##### Getting to know Github
+##### *Getting to know Github*
 
 **Today's Progress**: Worked through part of the tutorial offered by Github to familiarize yourself with the site. Forked the 100-days-of-code repository to begin this log. While there was some active code work, this was more a read and learn day.
 
