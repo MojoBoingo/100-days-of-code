@@ -10,7 +10,7 @@
 **Link to work:** N/A, as the landing page would be right here!
 
 ### Day 2: April 11, 2023
-##### *Getting to know Github*
+##### *Git, GitHub and GitDesktop*
 
 **Today's Progress**: More Github stuff today! Went through the quickstart, creating repositories just to play around with pull requests, branches, merging etc. Downloaded GitHub Desktop and did half of the exercise there to start getting familiar.
 
