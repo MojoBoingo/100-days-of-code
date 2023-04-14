@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: April 10, 2023
+### Day 1: April 11, 2023
 ##### *Getting to know Github*
 
 **Today's Progress**: Worked through part of the tutorial offered by Github to familiarize yourself with the site. Forked the 100-days-of-code repository to begin this log. While there was some active code work, this was more a read and learn day.
@@ -9,7 +9,7 @@
 
 **Link to work:** N/A, as the landing page would be right here!
 
-### Day 2: April 11, 2023
+### Day 2: April 12, 2023
 ##### *Git, GitHub and GitDesktop*
 
 **Today's Progress**: More Github stuff today! Went through the quickstart, creating repositories just to play around with pull requests, branches, merging etc. Downloaded GitHub Desktop and did half of the exercise there to start getting familiar.
@@ -17,3 +17,12 @@
 **Thoughts:** Tomorrow I'm going to continue with a Git tutorial and uploading an HTML project via Git to get used to these tools. After that I think back to my current FCC project: Learn Intermediate CSS by Building a Picasso Painting.
 
 **Link to work:** [Here](https://github.com/MojoBoingo/hello-world) is a link to my little hello-world repository: currently only populated by a README file listing some basic goals and plans I have for the immediate future. If you want to push some learning suggestions to the main branch, feel free!
+
+### Day 2: April 13, 2023
+##### *Git Going Already*
+
+**Today's Progress**: I round off my three-day exploration of GitHub and all things Git by creating a local repository using Git Bash and then pushing it to GitHub as a brand new one. Now I have created, pushed and pulled repositories using GitHub, GitHub Desktop, and Git Bash; I wanted to be at least passingly familiar with each method.
+
+**Thoughts:** Had some fun comparing the troubleshooting skills of ChatGPT and Phind when I had any issues: while Phind goes into much more detail and cites it's sources, ChatGPT's concise and quick answers served me better on this occasion. Desktop seems the most user friendly. Below's my new repo containing the project I'll be finishing over the weekend.
+
+**Link to work:** [HTML-guided-project1](https://github.com/MojoBoingo/HTML-guided-project1.git)
