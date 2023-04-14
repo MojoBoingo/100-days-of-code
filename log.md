@@ -18,7 +18,7 @@
 
 **Link to work:** [Here](https://github.com/MojoBoingo/hello-world) is a link to my little hello-world repository: currently only populated by a README file listing some basic goals and plans I have for the immediate future. If you want to push some learning suggestions to the main branch, feel free!
 
-### Day 2: April 13, 2023
+### Day 3: April 13, 2023
 ##### *Git Going Already*
 
 **Today's Progress**: I round off my three-day exploration of GitHub and all things Git by creating a local repository using Git Bash and then pushing it to GitHub as a brand new one. Now I have created, pushed and pulled repositories using GitHub, GitHub Desktop, and Git Bash; I wanted to be at least passingly familiar with each method.
