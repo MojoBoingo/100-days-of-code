@@ -91,3 +91,68 @@ https://github.com/MojoBoingo/HTML-guided-project1
 **Thoughts:**  I really benefit from having one day of not having to worry about it for now. Or that's the theory. Will try it out for three weeks or so.
 
 **Link to work:** N/A
+
+### Day 10: April 22, 2023
+##### *Updates*
+
+**Today's Progress**:Completely flopped on doing all my push updates yesterday like I said I would, lol. Had a lot of other things on my mind, so I did all that today in addition to doing some more work on my Technical Documentation Page. The bones of the doc page are done, the links are functional. Next comes transferring the content (probably the most tedious part) and then CSS.
+
+**Thoughts:**  Really wanted to enjoy my day off yesterday huh? Might need to just update the log here with the Discord. We'll see how it goes for a few weeks.
+
+**Link to work:** ![Tech Doc Draft 1](https://cdn.discordapp.com/attachments/697124514982527086/1099502553055641610/Screenshot_94.png)
+
+### Day 11: April 23, 2023
+##### *Doc Progress*
+
+**Today's Progress**:Did the headers and captions for each section today. Wanted to use figure and figcaption elements wrapped around the header's to do it, but that violated one of the conditions of the project (headers needing to be the first child of each main section). So I made them paragraph elements for now. Doesn't feel like I did much, hoping my weekly reset will help with a better frame of mind for tomorrow and I can make some more progress. If anyone has any advice on my project choice or just on motivation, I'd welcome it.
+
+**Thoughts:**  Continued working on my current project in much the same fashion. Although I'm pretty sure I more than met than dedicated one hour, I can't help but feel I'm dragging my feet here. At first I start second guessing myself about my choice of topic before I remember that GitHub docs are, by definition, open source. Though I still wonder if I shouldn't do something more original, like a personal take on a Markdown cheatsheet or something. Might just be intrusive thoughts, been having those lately. Lot of them begin with "I can't.."
+
+**Link to work:** ![Tech Doc Draft 2](https://cdn.discordapp.com/attachments/697124514982527086/1099846941883510835/Screenshot_95.png)
+
+### Day X: April 24, 2023
+##### *Life Happens*
+
+**Today's Progress**:N/A
+
+**Thoughts:**  Had a long overdue conversation with a family member that went pretty well. Took the day off to consider personal matters. Back at it tomorrow.
+Tomorrow being later today, EST speaking.
+
+**Link to work:** N/A
+
+### Day 12: April 25, 2023
+##### *Back At It*
+
+**Today's Progress**: Had a good example of the other side of the "breadth vs. depth" argument today. So I selected a GitHub doc to recreate for my technical documentation project. What I chose was only a section of a tutorial on the use of the website. I've since released that each subsection of what I've selected in fact has it's own navbar and subsections of it's own. I should name this project "matryoshka."
+
+**Thoughts:**  So I'm probably going to scale it back to just one of my twelve sections. I could do the full section I choose originally, and I'd probably benefit from doing it; I don't think the juice is worth the squeeze in this case. This smaller version still teaches me everything this project wants to, and keeps me moving forward. Next SS post will be of the updated code; I've added more but now there's a lot of extraneous mess that needs to go. And some of my headers need to become sections... 
+
+
+**Link to work:** Didn't snap a SS of this part, check next post.
+
+### Day 13: April 26, 2023
+##### *Now That's What I Call Progress*
+
+**Today's Progress**: Reframed my Technical Documentation project to something not-quite-so-huge. Cleaned it up a lot and pretty much finished with the HTML (aside for some edits to remove a few placeholder things and comments). So tomorrow it should be CSS time!
+
+**Thoughts:** Really happy about how this went overall, ups and downs. Excited about finishing this project.
+
+**Link to work:** ![Tech Doc Draft 3](https://cdn.discordapp.com/attachments/697124514982527086/1100962132671074334/Screenshot_96.png)
+
+### Day 14: April 27, 2023
+##### *Boilerplates for Aesthetics*
+
+**Today's Progress**: Started CSS. Took the opportunity to make the project work for me by creating a sort of CSS boilerplate for myself that I can keep seperately for myself going forward.
+
+**Thoughts:** So I've been doing this long enough now that I'm starting to get a feel for what kind of programmer I'll end up being. I think I work best when I take the problem, project or end goal I'm working on, break them into segments, and approaching each piece sequentially. So with that in mind, while working on my Technical Documentation project I decided to make it work for me by taking the opportunity to create a sort of CSS boilerplate for myself. So here's project draft 4, styles boilerplate draft 1.
+
+**Link to work:** ![Tech Doc Draft 4](https://cdn.discordapp.com/attachments/697124514982527086/1101320927880417351/Screenshot_97.png)
+
+### Day 15: April 29, 2023
+##### *Day of Rest a Bit Too Restful Maybe*
+
+**Today's Progress**: For now I'm doing all my log updates and then I think I'll copy my project off FCC into VSCode and maybe start a repo for FCC projects. First order of business as far as actual coding is floating my navbar to to top-right of the page and telling it to stay there even while the user scrolls the page. After that there's very little formatting left besides tweaks, so just some styling then I'm done.
+
+**Thoughts:** Had a nice day off yesterday not once thinking about code (other than floating my navbar a little bit). Just pleasure reading and video games and pro wrestling. The nerd hat trick. Didn't update from here to my repo log; thinking that maybe my brain wants the day off to be very literal, so I'm going to rethink how I do updates on that. **My short term goal is to finish Responsive Web Design before the end of May**.
+
+**Link to work:** ![Repo'd](https://cdn.discordapp.com/attachments/697124514982527086/1102076474095304807/Screenshot_98.png)
