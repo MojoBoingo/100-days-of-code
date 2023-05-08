@@ -156,3 +156,50 @@ Tomorrow being later today, EST speaking.
 **Thoughts:** Had a nice day off yesterday not once thinking about code (other than floating my navbar a little bit). Just pleasure reading and video games and pro wrestling. The nerd hat trick. Didn't update from here to my repo log; thinking that maybe my brain wants the day off to be very literal, so I'm going to rethink how I do updates on that. **My short term goal is to finish Responsive Web Design before the end of May**.
 
 **Link to work:** ![Repo'd](https://cdn.discordapp.com/attachments/697124514982527086/1102076474095304807/Screenshot_98.png)
+
+### Day 16: May 2, 2023
+##### 
+
+**Today's Progress**: OKAY I missed out yesterday because that was dedicated to doing research on local mechanics because getting my temperature gauge replaced has become unreasonably difficult.
+
+So I tried to make up for that today by doing at least two things. In my Technical Document project, the navbar has been fixed in the top right position, and separated from the main element using padding in CSS so there's no overlap. The navbar will scroll with the page. Still have a media query in mind but holding off on adding that until I'm done done.
+
+**Thoughts:** So I kinda procrastinated today because I felt guilty for missing yesterday (angst being a famously logical state of mind) and when I finally said "just do a little bit at least, keep the habit going" and resigned to upload my personal boilerplate files to a repo and maybe poke at my project. Instead it turned into almost two hours of work. Didn't even notice the time passing. That feels like a good sign.
+
+**Link to work:** ![Tech Doc Draft 5](https://cdn.discordapp.com/attachments/697124514982527086/1102813295603368026/Screenshot_99.png)
+
+### Day 17: May 3, 2023
+##### *Bleh*
+
+**Today's Progress**: Little styling done today. Mostly spent time planning things out while waiting on an appointment that took forever today. Pretty low energy, didn't get much done. Gunna try and shake it off tomorrow
+
+**Link to work:** ![Tech Doc Draft 6](https://cdn.discordapp.com/attachments/697124514982527086/1103238911762890762/Screenshot_100.png)
+
+### Day 18: May 4, 2023
+##### *Man vs Navbar*
+
+**Today's Progress**: Spent today wrestling with my navbar; when it comes to actual new code that was written in my project, very little happened here. Anyone who's been keeping up with my log (so everybody, right?) knows that I'm trying to recreate part of GitHub's Quickstart guide as my project, something that was very helpful to me, without taking anything but the content for me to code around. The only bits of code that I should have directly in common with the original document are font-family's, images, and colors.
+
+**Thoughts:** And it's worth pointing out that the original document includes JavaScript, without which there's some things I can't replicate, as I learned today. I wanted to style my navbar so it behaved much like the original doc's background-color shift on each li when you hover, otherwise simple white text. Except the official doc uses JS to keep the styling in place until the user clicks a another li. To put simply, not something I can replicate within this project. Also on FCC I have to upload a mirror version because it wants the navbar on the left side.
+
+So even if very little code changes today, I felt like it was well spent. I learned things and have a better idea of my finish line for this project, should happen tomorrow or the next day.
+
+**Link to work:** ![Tech Doc Draft 7](https://cdn.discordapp.com/attachments/697124514982527086/1103483028233273466/Screenshot_101.png)
+
+### Day 19: May 5, 2023
+##### *Man vs `p`*
+
+**Today's Progress:** Got my navbar to pass muster today but hit a wall trying to style my p elements. Was hoping to finish this project this week but this might hold me back. I'm trying to get my text to appear as a uniform block, with some "padding" (not necessarily the attribute, just in general) on either side with the text in a smooth-edged box. You can easily look ![here](https://docs.github.com/en/get-started/quickstart/hello-world) to see what I mean.
+
+**Thoughts:** Bit frustrated, because when someone points out the thing I'm missing I have a hunch I'm going to feel really stupid. C'est la vie. Made a forum post about it and I'll post a link in ⁠programming-help but I'll look at replies tomorrow, blegh.
+
+**Link to work:** N/A
+
+### Day 20: May 6, 2023
+##### *Done?*
+
+**Today's Progress:** I cleaned up the styling of my p elements, and struggled valiantly to imitate the numbering used in the GitHub Doc ol but eventually put it in the too hard box and just went with decimal. Added smooth scrolling and wish I had done that in the beginning just for my own sake. Overall everything looks cleaner and I generally neatened up and formatted the code.
+
+**Thoughts:** When I look over what was asked of me for the project and what I produced, I feel like just maybe I can say I went above and beyond. To what degree is up for debate. Gunna think about it over the weekend and upload the code to my GitHub in full, then probably submit on Monday if I haven't made a good enough case for why I should work on it more. I'll update here when I do. Enjoy your weekend everybody, I plan to.
+
+**Link to work:** ![Tech Doc Draft 8](https://cdn.discordapp.com/attachments/697124514982527086/1104209481946116236/Screenshot_102.png)
