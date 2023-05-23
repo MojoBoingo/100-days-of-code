@@ -203,3 +203,91 @@ So even if very little code changes today, I felt like it was well spent. I lear
 **Thoughts:** When I look over what was asked of me for the project and what I produced, I feel like just maybe I can say I went above and beyond. To what degree is up for debate. Gunna think about it over the weekend and upload the code to my GitHub in full, then probably submit on Monday if I haven't made a good enough case for why I should work on it more. I'll update here when I do. Enjoy your weekend everybody, I plan to.
 
 **Link to work:** ![Tech Doc Draft 8](https://cdn.discordapp.com/attachments/697124514982527086/1104209481946116236/Screenshot_102.png)
+
+### Day 21: May 8, 2023
+##### *Happy Monday*
+
+**Today's Progress**: Today I submitted Technical Document project, and did 35/118 of CSS Skylines. 
+
+**Thoughts:** Not too many, big of a rush today!
+
+**Link to work:** [Tech Doc](https://github.com/MojoBoingo/mojos-project-portfolio/tree/master/Technical%20Document)
+
+### Day 22: May 9, 2023
+##### *Lil' slow*
+
+**Today's Progress**: 52/118 of CSS Skylines on FCC.
+
+**Thoughts:** Did less than an hour day, but I've just been all over the place and can't bring myself to focus anymore. We'll hit it back hard tomorrow.
+
+**Link to work:** N/A
+
+### Day X: May 10, 2023
+##### *Day Off*
+
+**Today's Progress**: N/A
+
+**Thoughts:** Might do some coding later and it might even go an hour but I'm taking the day off. Half because I feel a buildup of tension and half because I want to remind myself it's okay to do this without punishing myself mentally. So if I code tonight it'll be because I was bored and I wanted to. Which would be delightful actually.
+
+**Link to work:** N/A
+
+### Day 23: May 11, 2023
+##### *Skylines Done*
+
+**Today's Progress**: 118/118 for CSS Skylines today.
+
+**Thoughts:** Fun exercise, I never want to not use variables again.
+
+**Link to work:** N/A
+
+### Day 24: May 12, 2023
+##### *Yay Weekend*
+
+**Today's Progress**: 35/80 for CSS Grid on FCC. 
+
+**Thoughts:** Had a slow start but ended up having a decently productive week. If I pick up the pace just a bit I think I can meet my goal of completing Responsive Web Design by the end of May, or at least close to. Now it's time for me to play Diablo all weekend.
+
+**Link to work:** N/A
+
+### Day 25: May 15, 2023
+##### *CSS Grid Done*
+
+**Today's Progress**: Finished CSS Grid today and updated the front-end/full stack roadmaps I'm loosely following.
+
+**Thoughts:** Two projects and two exercises to go!
+
+**Link to work:** ![CSS Grid](https://cdn.discordapp.com/attachments/697124514982527086/1107840836181446686/Screenshot_106.png)
+
+### Day 26: May 16, 2023
+##### *Product Landing Page Begin*
+
+**Today's Progress**: Got started on my Product Landing Page project from the FCC curriculum. Laid out all the requirements from the course out, and had the funny realization that I just needed to apply flexbox to something and I could technically submit this completely blank page aside from an email input.
+
+**Thoughts:** Was some pretty quick work, the rest of my hour and beyond is going to be spent brainstorming on topics.
+
+**Link to work:** ![Landing Page Draft 1](https://cdn.discordapp.com/attachments/697124514982527086/1108192497060028466/Screenshot_107.png)
+
+### Day 27: May 17, 2023
+##### *Product Landing Page Continues*
+
+**Today's Progress**: Figured out the product part of my Product Landing Page. Today was spent gathering images and looking for a good video overview, and should have involved creating most of the content; unfortunately I neglected to hit the "Save my code" button so instead a lot of it was spent being frustrated as I recreated everything before I did get some work done putting some images into place.
+
+**Thoughts:** No screenshot today, as there hasn't been much new added besides some images and a little extra styling. But I'll keep it in suspense what my topic is! Because everyone is super invested in the mystery, right? Remember ctrl+s boys and girls.
+
+**Link to work:** N/A
+
+### Day X: May 18, 2023
+##### *New GPU*
+
+**Today's Progress**: Not counting today, even though I will probably do some work later. Today is set aside for installing a new GPU and putting it through it's paces. My old one's fan spins up for no reason some time and results in power draws that reboot my system, like to 3k RPM it was ridiculous. Ain't having that.
+
+**Thoughts:** N/A
+
+### Day 28: May 19, 2023
+##### *Frustration*
+
+**Today's Progress**: Super frustrating work today. I wrestled trying to get a header and it's img to do what I want for my Product Landing page, and afterwards apparently I forgot everything about working with nav elements.
+
+**Thoughts:** Couldn't even get mine to move. Needlessly to say I'm feeling pretty frustrated even though I did get some work done. I really don't want to walk away from this unsolved, but I think I need to. I'm just going to keep getting annoyed and by the time I do figure it out it won't even be a relief. So I'm just going to try and relax this weekend, maybe make a forum post about it and update my repo log with the last two weeks.
+
+**Link to work:** N/A
